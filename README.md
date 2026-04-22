@@ -37,4 +37,4 @@ Actualmente desarrollando proyectos con Playwright y Python.
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/ing-qa/
+- LinkedIn: [Mi perfil](https://www.linkedin.com/in/ing-qa/)
